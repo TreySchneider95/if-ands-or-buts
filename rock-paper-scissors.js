@@ -8,11 +8,9 @@ const RPSObj = {
 
 console.log('Welcome to rock paper scissors! Type "end" any time to end the game.')
 
-
 let p1Score = 0
 let p2Score = 0
 let endGame = true
-
 
 while(endGame){
     // Game inputs
